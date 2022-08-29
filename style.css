@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+p{
+    color:rgb(211, 207, 207) ;
+}
+#tsle{
+    background-color: rgb(177, 0, 0);
+    color: rgb(211, 207, 207);
+}
+#ttll{
+    background-color: rgb(1, 1, 146);
+    color: rgb(211, 207, 207);
+}
